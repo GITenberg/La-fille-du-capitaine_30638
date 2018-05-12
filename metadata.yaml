@@ -1,0 +1,47 @@
+_repo: La-fille-du-capitaine_30638
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paris, A.
+    gutenberg_agent_id: '34727'
+    url: http://www.gutenberg.org/2009/agents/34727
+  translator:
+    agent_name: Viardot, Louis
+    alias: Viardo
+    birthdate: 1800
+    deathdate: 1883
+    gutenberg_agent_id: '5976'
+    url: http://www.gutenberg.org/2009/agents/5976
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Poushkin, Alexander
+    - Пушкин, Александр Сергеевич
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30638'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pugachev, Emelian Ivanovich, -1775 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- History -- Catherine II, 1762-1796 -- Fiction'
+title: La fille du capitaine
+url: http://www.gutenberg.org/ebooks/30638
